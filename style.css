@@ -1,0 +1,64 @@
+body
+{
+  background-color: black;
+}
+h1
+{
+  color: grey;
+  font-size: 2.5rem;
+  text-align: center;
+}
+form
+{
+  background-color: white;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 20px;
+  border-radius: 20px;
+  font-family: tahoma, sans-serif;
+}
+div 
+{
+  margin-bottom: 10px;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}
+ label 
+{
+  display: inline-block;
+  width: 150px;
+  padding: 5px;
+}
+input
+{
+  margin: 10px 0;
+}
+
+output
+{
+  margin-left: 10px;
+}
+
+input[type = "button"]
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+p
+{
+  margin-left: 20%;
+}
+
+footer
+{
+  font-size: 0.8rem;
+  padding-top: 50px;
+  padding-bottom: 0;
+}
